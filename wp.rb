@@ -2,9 +2,9 @@ class Wp < Formula
   desc "Get your wifi password. macOS only."
   homepage "https://github.com/matt-dong-123/wp"
   url "https://raw.githubusercontent.com/matt-dong-123/wp/main/wp"
-  sha256 "d77c27fce0ce1ed89a1c8a3480249b5e152a3987d9b7b691dca307ff7a534f02"
+  sha256 "f79d9011d60687c1c5d88a1cbbff5c8fcfa2ede3d2df413daa31a71cd7d08501"
   license "MIT"
-  version "1.1.0"
+  version "1.2.0"
 
   depends_on :macos
 
