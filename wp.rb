@@ -6,6 +6,7 @@ class Wp < Formula
   license "MIT"
   version "1.2.0"
 
+  depends_on "fzf"
   depends_on :macos
 
   def install
